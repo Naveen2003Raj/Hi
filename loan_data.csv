@@ -1,0 +1,6 @@
+Name,aadhaar_number,card_number,Address,mobile_number,account_number,bank_name,branch_name,existing_loan,loan_status,existing_loan_amount,subsidy_applied
+V LAKSHMI,2871 1972 0595,6732 1489 5201,"No. 45, Anna Street, Gandhi Nagar, Chennai, Tamil Nadu ,600020",9756632379,AC0012345678,State Bank of India,Main Branch,Yes,Active,40000,Yes - PM Kisan
+Anita Sharma,2.35E+11,SM23456789,Chennai,8765432109,AC0023456789,Indian Bank,City Branch,Yes,Closed,0,No
+Karthik M,3.46E+11,SM34567890,Erode,7654321098,AC0034567890,Canara Bank,North Branch,No,None,0,No
+Lakshmi Devi,4.57E+11,SM45678901,Salem,6543210987,AC0045678901,Union Bank of India,South Branch,Yes,Default,52000,Pending Verification
+Suresh Iyer,5.68E+11,SM56789012,Madurai,5432109876,AC0056789012,HDFC Bank,West Branch,Yes,Active,30000,Yes - State Agri Waiver

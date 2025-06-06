@@ -1,0 +1,6 @@
+card_number,card_type,Head_of_Family,DOB,Gender,Mobile,Address,Family_Members,Entitlement,Issue_Date,Issued_By,aadhar_status
+6732 1489 5201,PHH,V LAKSHMI,7/4/1989,FEMALE,9756632379,"No. 45, Anna Street, Gandhi Nagar, Chennai, Tamil Nadu, 600020","V LAKSHMI, M. LATHA","Rice: 20kg, Sugar: 2kg, Kerosene: 5L",3/10/2022,TNPDS Chennai,Linked
+8372 9150 2395,NPHH,R KUMAR,15/06/1980,MALE,9845123456,"12, MG Road, T Nagar, Chennai, Tamil Nadu, 600017","R KUMAR, S. ANAND, R. PRIYA","Rice: 10kg, Sugar: 1kg, Kerosene: 3L",5/12/2021,TNPDS Chennai,Linked
+9123 4567 8901,PHH,S RAJESH,10/12/1975,MALE,9988776655,"88, North Street, Coimbatore, Tamil Nadu, 641001","S RAJESH, K. MITHUN","Rice: 25kg, Sugar: 3kg, Kerosene: 6L",9/18/2020,TNPDS Coimbatore,Not Linked
+2345 6789 0123,SPHH,A MEENA,3/3/1990,FEMALE,9876543210,"23, Lake View, Trichy, Tamil Nadu, 620018","A MEENA, A. JAYA","Rice: 15kg, Sugar: 2kg, Kerosene: 4L",1/25/2022,TNPDS Trichy,Linked
+1098 7654 3210,PHH,K DEVI,21/11/1985,FEMALE,9123456789,"5, Hill Top Colony, Madurai, Tamil Nadu, 625001","K DEVI, D. RANI","Rice: 18kg, Sugar: 1.5kg, Kerosene: 5L",7/30/2023,TNPDS Madurai,Linked

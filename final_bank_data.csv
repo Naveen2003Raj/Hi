@@ -1,0 +1,44 @@
+Name,aadhaar_number,card_number,Address,Mobile_Number,account_number,bank_name,subsidy_applied,IFSC_Code,Branch,Account_Type
+V LAKSHMI,2871 1972 0595,807058330108,"No. 45, Anna Street, Gandhi Nagar, Chennai, Tamil Nadu ,600020",9756632379,12480295130,IOB,No,IFSC9919,Chennai,Current
+RUDRA,9876 5432 1008,888183307098,"Flat B2, Vasantham Apartments, 2nd Cross, Trichy Road, Coimbatore, Tamil Nadu ,641018",7117782775,77755225000,SBI,Yes,IFSC3360,Coimbatore,Savings
+SAYED RAJ AHMED,9876 5432 1006,320793080760,"Door No. 12/3, Thillai Nagar Main Road, Tiruchirappalli, Tamil Nadu ,620018",8699886929,6.34E+13,Grama Bank,No,IFSC9498,Madurai,Savings
+LAKSHMI,9876 5432 1140,254856979028,"Plot No. 67, Teachers Colony, Katpadi, Vellore, Tamil Nadu ,632007",8675088695,38400320780,Axis Bank,yes,IFSC7090,Tiruchirappalli,Savings
+SHARADA,9876 5432 1139,723227251934,"No. 22, Raja Street, South Gate, Madurai, Tamil Nadu ,625001",9508666277,7.39E+11,Indian Bank,No,IFSC3600,Salem,Savings
+SHREEDEVI,9876 5432 1129,695684007800,"2nd Floor, KVB Complex, Avinashi Road, Tiruppur, Tamil Nadu ,641602",7532556618,29620671985,Cooperation Bank,Yes,IFSC9452,Erode,Savings
+AARVI,9876 5432 1128,263752923520,"No. 8, Kamarajar Salai, Melur, Madurai, Tamil Nadu ,625106",7276444820,44410447667,Indian Bank,No,IFSC9684,Tirunelveli,Savings
+KIRAN KUMAR,9876 5432 1127,237978394084,"25, V.O.C. Nagar, Fairlands, Salem, Tamil Nadu ,636004",9869578872,76610161147,Cooperation Bank,Yes,IFSC1340,Vellore,Savings
+RAVI KUMAR,9876 5432 1126,764905416605,"Plot No. 13, Renga Nagar, North Bye-pass Road, Thanjavur, Tamil Nadu ,613004",9068576030,97280842637,Grama Bank,No,IFSC9021,Thanjavur,Current
+KARTHIK SURESH,9876 5432 1125,869190889495,"14, Sivan Kovil Street, Jawahar Bazaar, Karur, Tamil Nadu ,639001",7544007955,56200415413,Indian Bank,No,IFSC2990,Dindigul,Savings
+RAGINI,7894 5612 3049,708923500622,"No. 11, Anna Salai, Rajakilpakkam, Kancheepuram, Tamil Nadu ,631501",8838367416,56090508823,Axis Bank,Yes,IFSC1193,Thoothukudi,Savings
+SUSHMITA,7894 5612 3043,978605645352,"Flat No. 3, Sudarsan Apartments, ECR Road, Lawspet, Puducherry ,605003",9099325085,51600393139,SBI,No,IFSC4141,Nagapattinam,Savings
+DIVYA CHANDRAKAR,9092 9439 5295,102793078699,"House No. 29, Gandhi Street, Perambur, Chennai, Tamil Nadu ,600011",8039346766,41520119559,Grama Bank,No,IFSC4307,Karur,Current
+SRIRAM MAMUNDI,8416 1590 3267,564496938462,"No. 102, S.P. Koil Street, Semmandalam, Cuddalore, Tamil Nadu ,607001",9420161345,48430860138,Axis Bank,No,IFSC3265,Namakkal,Savings
+AISHWARYA G,3052 7875 6145,831627869146,"#5, Balaji Nagar, Aruppukottai Main Road, Virudhunagar, Tamil Nadu ,626002",9775286446,97080590624,Cooperation Bank,No,IFSC6663,Sivaganga,Current
+PRAKHAR KUMAR RAI,7754 4656 8200,976084846772,"Block 4, Room 18, Government Quarters, Palani Road, Dindigul, Tamil Nadu ,624001",8917961563,39890751098,Grama Bank,No,IFSC3317,Virudhunagar,Current
+RAJ,7486 1354 9217,727806259096,"Door No. 77, South Street, Ayyangudi, Kumbakonam, Tamil Nadu ,612001",8684923978,15050159071,SBI,Yes,IFSC5530,Kanchipuram,Savings
+SURYA,9835 4446 4881,724573733211,"12, Nehru Street, Near Bus Stand, Erode, Tamil Nadu ,638001",8837467555,28800285614,Cooperation Bank,Yes,IFSC5167,Cuddalore,Savings
+SUBBULAKSHMI M,2119 8732 1692,618198154492,"34, MGR Nagar, Satchiyapuram, Sivakasi, Tamil Nadu ,626123",9436819190,69880367360,IOB,No,IFSC2471,Villupuram,Current
+YUVAAN,9876 5432 1009,910690137483,"45, Gandhi Salai, Paramathi, Namakkal, Tamil Nadu ,637001",9467382034,59010929750,Indian Bank,Yes,IFSC2018,Ramanathapuram,Savings
+SARAVANAKUMAR PACKIRISAMY,8279 7764 2601,449692119898,"67, Thiruvalluvar Street, Velipalayam, Nagapattinam, Tamil Nadu ,611001",9434330163,64500301822,IOB,No,IFSC5500,Tiruvarur,Savings
+RAJINIKANT,9977 1100 3085,806059734806,"89, Periyar Nagar, Polur Road, Tiruvannamalai, Tamil Nadu ,606601",8012098497,59670516721,Grama Bank,No,IFSC9111,Perambalur,Current
+RAJESH KHANNA,1934 3969 9552,167233231664,"10, New Colony, Bagalur Road, Hosur, Tamil Nadu ,635109",8052469724,57830687725,Cooperation Bank,Yes,IFSC4249,Pudukkottai,Current
+JHANSI,9876 5432 1135,592200760731,"23, Bharathi Road, Theni Allinagaram, Theni, Tamil Nadu ,625531",7081476526,38090490614,Grama Bank,No,IFSC5489,Krishnagiri,Savings
+SHREE RAM,1472 5836 9076,721314412751,"56, Ponnusamy Street, New Bus Stand, Villupuram, Tamil Nadu ,605602",8758441024,97760622521,Cooperation Bank,No,IFSC7747,Dharmapuri,Savings
+SHASHIKUMAR,9977 1100 3084,488911892860,"78, Rajaji Nagar, Krishnagiri Main Road, Krishnagiri, Tamil Nadu ,635001",7154742260,57540374774,Axis Bank,Yes,IFSC2931,Ariyalur,Current
+ARJUN,9876 5432 1001,835894316858,"90, Collector Office Road, Keezha Ariyalur, Ariyalur, Tamil Nadu ,621704",7554376334,28590831514,SBI,Yes,IFSC9505,Tirupathur,Savings
+RAM VIJAY KUMAR,9618 8190 7385,502400759372,"31, Gandhi Bazar, Pennagaram Road, Dharmapuri, Tamil Nadu ,636701",9330481484,29990587687,SBI,Yes,IFSC2760,Ranipet,Current
+KARTHIK SURESH,9876 5432 1124,800415441365,"11, Main Road, Pudukkottai Old Market, Pudukkottai, Tamil Nadu ,622001",9845918292,84880133544,Cooperation Bank,Yes,IFSC9278,Tenkasi,Current
+LATAMANI MAHANTA,7905 1699 9857,703681840821,"22, Market Street, Sayalkudi, Ramanathapuram, Tamil Nadu ,623501",7305156733,28700638219,Axis Bank,Yes,IFSC8305,Chengalpattu,Current
+MUHAMMAD IRFAN,5896 4780 3695,985011880027,"44, Anna Nagar, Vadasery, Nagercoil, Tamil Nadu ,629001",9958337274,19870907026,Axis Bank,Yes,IFSC3680,Nilgiris,Savings
+YESUDAS,9977 1100 3089,613605606069,"65, Bazaar Street, Tuticorin Main Area, Thoothukudi, Tamil Nadu ,628002",8936905092,37440712936,IOB,No,IFSC7233,Mayiladuthurai,Savings
+ANONY AK,9977 1100 3088,930851568155,"88, Kamaraj Salai, South Madavilagam, Thiruvarur, Tamil Nadu ,610001",9119889739,92120332857,Axis Bank,No,IFSC5702,Tiruvallur,Current
+ANNAMALAI,9977 1100 3087,473560767307,"101, Gandhi Road, GST Road Junction, Chengalpattu, Tamil Nadu ,603001",9004104975,91790771447,Cooperation Bank,No,IFSC1966,Tiruvannamalai,Current
+MOHEMMED ASIF,9977 1100 3081,713030069793,"77, Old Bus Stand Road, Perambalur, Tamil Nadu ,621212",9171014667,49500662621,SBI,No,IFSC4165,Theni,Savings
+CHITTI BABU,1122 0022 4058,558556197635,"93, Temple Street, Madurai Road, Tiruchuli, Tamil Nadu ,626129",9758294296,80100320420,Indian Bank,Yes,IFSC5245,Kallakurichi,Savings
+TIRUPATI BABU,1122 0022 4057,779959093565,"60, VOC Road, Fernhill, Udhagamandalam (Ooty), Tamil Nadu ,643001",9992167433,62050373870,Grama Bank,No,IFSC4208,Nagapattinam,Savings
+ANNA SAB,1122 0022 4055,427613423387,"14, Somasundaram Street, Mahalingapuram, Pollachi, Tamil Nadu ,642001",9600099548,60780108313,Indian Bank,Yes,IFSC6660,Thiruvarur,Current
+RANA PRATAP,1122 0022 4054,419154989771,"9, Rangan Street, Old Bus Stand, Mannargudi, Tamil Nadu ,614001",9047185987,91190226721,Grama Bank,Yes,IFSC2157,Erode,Savings
+MOHAMMED SULTAN,1122 0022 4052,888600716106,"3, Nehru Nagar, Thiruvamur, Panruti, Tamil Nadu ,607106",9685791943,17040153600,IOB,Yes,IFSC5720,Tirunelveli,Current
+FATHIMA AHMED,9876 5432 1130,914915885880,"85, South Car Street, Near Big Temple, Sirkazhi, Tamil Nadu ,609110",9455239554,19900484914,Axis Bank,Yes,IFSC3955,Virudhunagar,Savings
+NIRIMLA BAI,3066 2940 6413,600973755745,"58, Park Road, Bus Stand Area, Tenkasi, Tamil Nadu ,627811",9186541176,19400911135,Indian Bank,Yes,IFSC1601,Tiruchirappalli,Savings
+,,,,,,,,,,

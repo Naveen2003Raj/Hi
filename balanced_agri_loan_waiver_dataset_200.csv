@@ -1,0 +1,201 @@
+Loan_Amount,Land_Size,Repayment_Status,Loan_Tenure,Interest_Rate,Collateral_Type,Collateral_Value,Subsidy,Income,Card_Type,Previous_Loan_History,Loan_Purpose,Eligibility
+less than 50k,2-4,Default,above 3 yrs,6,Gold,>1Lakh,No,80k-1Lakh,NPHH,1-2 Loans,Machinery,Not Eligible
+1Lakh -2Lakh,1-2,Default,less than 3 yrs,5,Vehicle,<50K,Yes,80k-1Lakh,PHH,No Loan,Machinery,Eligible
+less than 50k,5-6,Fully Paid,above 3 yrs,5,Vehicle,<50K,Yes,above 1.5Lakh,PHH,>2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Partially Paid,less than 3 yrs,7,Vehicle,60K-1Lakh,Yes,less than 70k,NPHH,>2 Loans,Crop,Eligible
+1Lakh -2Lakh,5-6,Default,above 3 yrs,less than 4,Vehicle,>1Lakh,No,80k-1Lakh,None,>2 Loans,Irrigation,Not Eligible
+1Lakh -2Lakh,2-4,Partially Paid,less than 3 yrs,5,Gold,60K-1Lakh,No,above 1.5Lakh,PHH,>2 Loans,Livestock,Eligible
+60k-1Lakh,5-6,Fully Paid,above 3 yrs,less than 4,Land,60K-1Lakh,Yes,less than 70k,None,1-2 Loans,Machinery,Eligible
+less than 50k,5-6,Default,above 3 yrs,less than 4,Vehicle,60K-1Lakh,No,less than 70k,None,>2 Loans,Irrigation,Not Eligible
+60k-1Lakh,2-4,Partially Paid,less than 3 yrs,7,Vehicle,60K-1Lakh,Yes,80k-1Lakh,NPHH,1-2 Loans,Machinery,Eligible
+60k-1Lakh,2-4,Partially Paid,above 3 yrs,5,Gold,>1Lakh,Yes,80k-1Lakh,PHH-AYY,No Loan,Machinery,Eligible
+less than 50k,5-6,Partially Paid,above 3 yrs,5,Vehicle,>1Lakh,No,80k-1Lakh,NPHH,No Loan,Livestock,Not Eligible
+less than 50k,5-6,Partially Paid,above 3 yrs,7,Land,<50K,No,80k-1Lakh,PHH-AYY,No Loan,Crop,Not Eligible
+<2Lakh,2-4,Partially Paid,above 3 yrs,7,Gold,>1Lakh,No,80k-1Lakh,None,>2 Loans,Irrigation,Not Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,5,Land,60K-1Lakh,No,above 1.5Lakh,PHH,No Loan,Crop,Not Eligible
+<2Lakh,1-2,Fully Paid,above 3 yrs,5,Gold,>1Lakh,Yes,above 1.5Lakh,PHH-AYY,>2 Loans,Machinery,Eligible
+1Lakh -2Lakh,5-6,Default,less than 3 yrs,5,Vehicle,>1Lakh,No,less than 70k,NPHH,No Loan,Irrigation,Not Eligible
+60k-1Lakh,2-4,Default,above 3 yrs,6,Land,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Crop,Not Eligible
+60k-1Lakh,5-6,Partially Paid,above 3 yrs,6,Gold,>1Lakh,No,less than 70k,NPHH,No Loan,Crop,Not Eligible
+1Lakh -2Lakh,1-2,Fully Paid,above 3 yrs,7,Vehicle,60K-1Lakh,No,above 1.5Lakh,None,No Loan,Irrigation,Not Eligible
+1Lakh -2Lakh,5-6,Fully Paid,above 3 yrs,7,Gold,<50K,No,80k-1Lakh,PHH,>2 Loans,Machinery,Not Eligible
+less than 50k,5-6,Partially Paid,less than 3 yrs,6,Land,60K-1Lakh,No,80k-1Lakh,NPHH,1-2 Loans,Irrigation,Eligible
+60k-1Lakh,2-4,Default,less than 3 yrs,6,Land,<50K,Yes,less than 70k,NPHH,No Loan,Machinery,Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,7,Vehicle,60K-1Lakh,No,less than 70k,None,No Loan,Machinery,Not Eligible
+60k-1Lakh,1-2,Fully Paid,above 3 yrs,less than 4,Vehicle,>1Lakh,No,above 1.5Lakh,NPHH,1-2 Loans,Machinery,Not Eligible
+1Lakh -2Lakh,5-6,Fully Paid,above 3 yrs,5,Vehicle,<50K,No,less than 70k,None,1-2 Loans,Irrigation,Not Eligible
+1Lakh -2Lakh,5-6,Partially Paid,above 3 yrs,5,Gold,<50K,No,80k-1Lakh,NPHH,1-2 Loans,Irrigation,Not Eligible
+1Lakh -2Lakh,5-6,Fully Paid,less than 3 yrs,7,Gold,>1Lakh,Yes,less than 70k,PHH,>2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Default,less than 3 yrs,5,Vehicle,>1Lakh,Yes,above 1.5Lakh,PHH-AYY,1-2 Loans,Irrigation,Eligible
+<2Lakh,5-6,Partially Paid,above 3 yrs,5,Gold,60K-1Lakh,No,80k-1Lakh,PHH-AYY,>2 Loans,Livestock,Not Eligible
+less than 50k,2-4,Partially Paid,above 3 yrs,less than 4,Vehicle,>1Lakh,No,80k-1Lakh,PHH-AYY,No Loan,Irrigation,Not Eligible
+60k-1Lakh,5-6,Default,less than 3 yrs,5,Land,<50K,Yes,80k-1Lakh,PHH-AYY,>2 Loans,Livestock,Eligible
+<2Lakh,5-6,Fully Paid,less than 3 yrs,7,Land,60K-1Lakh,No,above 1.5Lakh,PHH,>2 Loans,Irrigation,Eligible
+<2Lakh,5-6,Partially Paid,above 3 yrs,5,Gold,60K-1Lakh,No,less than 70k,None,>2 Loans,Machinery,Not Eligible
+<2Lakh,2-4,Fully Paid,above 3 yrs,less than 4,Gold,60K-1Lakh,No,above 1.5Lakh,PHH,1-2 Loans,Machinery,Not Eligible
+<2Lakh,5-6,Partially Paid,above 3 yrs,6,Vehicle,<50K,No,less than 70k,None,1-2 Loans,Livestock,Not Eligible
+less than 50k,2-4,Fully Paid,above 3 yrs,5,Vehicle,>1Lakh,No,80k-1Lakh,NPHH,No Loan,Irrigation,Not Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,6,Vehicle,>1Lakh,Yes,less than 70k,PHH-AYY,>2 Loans,Crop,Eligible
+less than 50k,1-2,Default,above 3 yrs,5,Land,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Livestock,Not Eligible
+<2Lakh,1-2,Fully Paid,above 3 yrs,5,Vehicle,60K-1Lakh,No,80k-1Lakh,PHH,1-2 Loans,Irrigation,Not Eligible
+less than 50k,5-6,Fully Paid,less than 3 yrs,7,Gold,60K-1Lakh,Yes,80k-1Lakh,None,No Loan,Crop,Eligible
+60k-1Lakh,5-6,Default,above 3 yrs,less than 4,Vehicle,60K-1Lakh,No,less than 70k,PHH-AYY,No Loan,Machinery,Eligible
+60k-1Lakh,1-2,Partially Paid,above 3 yrs,6,Land,>1Lakh,Yes,80k-1Lakh,None,1-2 Loans,Irrigation,Eligible
+less than 50k,2-4,Default,above 3 yrs,less than 4,Land,<50K,No,less than 70k,NPHH,>2 Loans,Irrigation,Eligible
+<2Lakh,2-4,Partially Paid,above 3 yrs,5,Gold,60K-1Lakh,Yes,less than 70k,PHH-AYY,>2 Loans,Livestock,Eligible
+<2Lakh,5-6,Fully Paid,above 3 yrs,7,Land,60K-1Lakh,No,above 1.5Lakh,PHH,No Loan,Machinery,Not Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,7,Land,60K-1Lakh,Yes,above 1.5Lakh,PHH-AYY,>2 Loans,Livestock,Eligible
+<2Lakh,5-6,Fully Paid,less than 3 yrs,7,Gold,<50K,Yes,less than 70k,None,1-2 Loans,Livestock,Eligible
+less than 50k,5-6,Default,above 3 yrs,6,Gold,<50K,Yes,above 1.5Lakh,PHH,1-2 Loans,Machinery,Eligible
+1Lakh -2Lakh,5-6,Default,above 3 yrs,less than 4,Gold,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Machinery,Not Eligible
+1Lakh -2Lakh,1-2,Fully Paid,above 3 yrs,5,Vehicle,60K-1Lakh,No,above 1.5Lakh,None,>2 Loans,Crop,Not Eligible
+less than 50k,5-6,Default,less than 3 yrs,less than 4,Land,>1Lakh,No,above 1.5Lakh,PHH-AYY,>2 Loans,Crop,Eligible
+60k-1Lakh,1-2,Partially Paid,above 3 yrs,less than 4,Vehicle,>1Lakh,No,80k-1Lakh,PHH,>2 Loans,Livestock,Not Eligible
+less than 50k,5-6,Default,above 3 yrs,less than 4,Vehicle,<50K,No,80k-1Lakh,None,No Loan,Irrigation,Not Eligible
+60k-1Lakh,5-6,Partially Paid,above 3 yrs,7,Land,<50K,No,above 1.5Lakh,None,No Loan,Crop,Not Eligible
+<2Lakh,2-4,Default,less than 3 yrs,6,Land,60K-1Lakh,Yes,80k-1Lakh,NPHH,No Loan,Crop,Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,6,Vehicle,60K-1Lakh,No,80k-1Lakh,PHH-AYY,No Loan,Livestock,Not Eligible
+<2Lakh,2-4,Default,less than 3 yrs,7,Vehicle,>1Lakh,Yes,less than 70k,PHH,1-2 Loans,Crop,Eligible
+1Lakh -2Lakh,1-2,Default,above 3 yrs,7,Vehicle,60K-1Lakh,No,80k-1Lakh,NPHH,>2 Loans,Crop,Not Eligible
+60k-1Lakh,5-6,Fully Paid,less than 3 yrs,6,Vehicle,>1Lakh,Yes,80k-1Lakh,PHH,>2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Fully Paid,above 3 yrs,less than 4,Vehicle,<50K,Yes,80k-1Lakh,PHH-AYY,1-2 Loans,Crop,Eligible
+less than 50k,5-6,Fully Paid,above 3 yrs,7,Land,>1Lakh,Yes,80k-1Lakh,PHH,>2 Loans,Crop,Eligible
+<2Lakh,2-4,Fully Paid,above 3 yrs,6,Gold,60K-1Lakh,No,80k-1Lakh,None,>2 Loans,Livestock,Not Eligible
+1Lakh -2Lakh,2-4,Fully Paid,above 3 yrs,5,Gold,<50K,No,less than 70k,PHH-AYY,No Loan,Livestock,Eligible
+1Lakh -2Lakh,1-2,Default,less than 3 yrs,6,Gold,60K-1Lakh,No,above 1.5Lakh,PHH,1-2 Loans,Livestock,Eligible
+1Lakh -2Lakh,2-4,Fully Paid,less than 3 yrs,7,Gold,60K-1Lakh,Yes,80k-1Lakh,None,1-2 Loans,Livestock,Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,5,Vehicle,>1Lakh,No,less than 70k,None,>2 Loans,Livestock,Not Eligible
+1Lakh -2Lakh,1-2,Default,above 3 yrs,7,Land,>1Lakh,No,80k-1Lakh,PHH,>2 Loans,Livestock,Not Eligible
+1Lakh -2Lakh,5-6,Fully Paid,above 3 yrs,6,Gold,>1Lakh,No,less than 70k,None,1-2 Loans,Livestock,Not Eligible
+less than 50k,2-4,Fully Paid,less than 3 yrs,6,Land,60K-1Lakh,No,80k-1Lakh,PHH-AYY,1-2 Loans,Crop,Eligible
+1Lakh -2Lakh,1-2,Fully Paid,above 3 yrs,6,Vehicle,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Irrigation,Not Eligible
+<2Lakh,1-2,Default,less than 3 yrs,7,Vehicle,>1Lakh,No,80k-1Lakh,PHH,No Loan,Livestock,Eligible
+<2Lakh,1-2,Default,above 3 yrs,6,Land,<50K,No,above 1.5Lakh,PHH,1-2 Loans,Livestock,Not Eligible
+1Lakh -2Lakh,5-6,Fully Paid,above 3 yrs,5,Vehicle,>1Lakh,No,less than 70k,NPHH,1-2 Loans,Livestock,Not Eligible
+less than 50k,5-6,Fully Paid,above 3 yrs,6,Land,<50K,No,80k-1Lakh,NPHH,No Loan,Machinery,Not Eligible
+<2Lakh,5-6,Fully Paid,above 3 yrs,5,Land,60K-1Lakh,No,less than 70k,NPHH,>2 Loans,Machinery,Not Eligible
+60k-1Lakh,5-6,Default,less than 3 yrs,6,Gold,<50K,No,above 1.5Lakh,PHH,1-2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Default,above 3 yrs,less than 4,Vehicle,60K-1Lakh,Yes,less than 70k,PHH,1-2 Loans,Irrigation,Eligible
+<2Lakh,5-6,Fully Paid,less than 3 yrs,less than 4,Gold,60K-1Lakh,Yes,less than 70k,NPHH,1-2 Loans,Irrigation,Eligible
+<2Lakh,2-4,Fully Paid,less than 3 yrs,5,Land,60K-1Lakh,No,80k-1Lakh,NPHH,No Loan,Machinery,Eligible
+1Lakh -2Lakh,5-6,Partially Paid,above 3 yrs,6,Gold,>1Lakh,Yes,80k-1Lakh,NPHH,>2 Loans,Irrigation,Eligible
+1Lakh -2Lakh,5-6,Fully Paid,above 3 yrs,6,Vehicle,60K-1Lakh,No,above 1.5Lakh,NPHH,>2 Loans,Livestock,Not Eligible
+less than 50k,2-4,Partially Paid,above 3 yrs,5,Gold,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,No Loan,Irrigation,Not Eligible
+1Lakh -2Lakh,1-2,Default,less than 3 yrs,5,Gold,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,>2 Loans,Machinery,Eligible
+<2Lakh,5-6,Partially Paid,above 3 yrs,5,Vehicle,>1Lakh,No,less than 70k,PHH,>2 Loans,Crop,Eligible
+1Lakh -2Lakh,1-2,Default,above 3 yrs,5,Gold,>1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Irrigation,Not Eligible
+less than 50k,1-2,Fully Paid,less than 3 yrs,5,Land,<50K,No,80k-1Lakh,NPHH,No Loan,Machinery,Eligible
+<2Lakh,2-4,Fully Paid,above 3 yrs,6,Vehicle,>1Lakh,No,above 1.5Lakh,PHH-AYY,>2 Loans,Irrigation,Not Eligible
+60k-1Lakh,1-2,Partially Paid,above 3 yrs,5,Gold,>1Lakh,Yes,above 1.5Lakh,None,1-2 Loans,Irrigation,Eligible
+1Lakh -2Lakh,1-2,Default,above 3 yrs,7,Vehicle,>1Lakh,No,80k-1Lakh,NPHH,1-2 Loans,Irrigation,Not Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,5,Vehicle,<50K,No,80k-1Lakh,PHH,1-2 Loans,Machinery,Not Eligible
+<2Lakh,5-6,Fully Paid,above 3 yrs,5,Land,60K-1Lakh,No,above 1.5Lakh,NPHH,No Loan,Irrigation,Not Eligible
+60k-1Lakh,5-6,Fully Paid,above 3 yrs,5,Gold,>1Lakh,No,80k-1Lakh,None,>2 Loans,Machinery,Not Eligible
+<2Lakh,2-4,Default,above 3 yrs,5,Land,<50K,No,above 1.5Lakh,PHH,>2 Loans,Irrigation,Not Eligible
+60k-1Lakh,5-6,Fully Paid,less than 3 yrs,5,Land,60K-1Lakh,No,80k-1Lakh,PHH,>2 Loans,Livestock,Eligible
+less than 50k,5-6,Fully Paid,above 3 yrs,6,Vehicle,<50K,No,80k-1Lakh,PHH,>2 Loans,Livestock,Not Eligible
+60k-1Lakh,2-4,Default,above 3 yrs,5,Vehicle,60K-1Lakh,No,above 1.5Lakh,None,No Loan,Crop,Not Eligible
+<2Lakh,2-4,Default,less than 3 yrs,6,Vehicle,>1Lakh,No,80k-1Lakh,NPHH,>2 Loans,Crop,Eligible
+<2Lakh,5-6,Default,above 3 yrs,6,Vehicle,<50K,No,less than 70k,NPHH,1-2 Loans,Machinery,Not Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,6,Vehicle,>1Lakh,No,above 1.5Lakh,NPHH,No Loan,Machinery,Not Eligible
+1Lakh -2Lakh,2-4,Default,above 3 yrs,5,Vehicle,>1Lakh,No,80k-1Lakh,None,>2 Loans,Irrigation,Not Eligible
+60k-1Lakh,2-4,Default,above 3 yrs,less than 4,Land,<50K,No,80k-1Lakh,PHH-AYY,No Loan,Irrigation,Not Eligible
+60k-1Lakh,2-4,Fully Paid,less than 3 yrs,6,Gold,60K-1Lakh,No,less than 70k,NPHH,>2 Loans,Irrigation,Eligible
+<2Lakh,2-4,Fully Paid,above 3 yrs,less than 4,Gold,60K-1Lakh,No,80k-1Lakh,PHH,>2 Loans,Machinery,Not Eligible
+<2Lakh,1-2,Fully Paid,less than 3 yrs,5,Land,<50K,No,less than 70k,PHH,No Loan,Irrigation,Eligible
+<2Lakh,5-6,Default,above 3 yrs,less than 4,Gold,>1Lakh,No,less than 70k,NPHH,>2 Loans,Machinery,Not Eligible
+<2Lakh,1-2,Partially Paid,less than 3 yrs,5,Land,<50K,Yes,above 1.5Lakh,PHH,No Loan,Machinery,Eligible
+1Lakh -2Lakh,2-4,Fully Paid,less than 3 yrs,5,Vehicle,<50K,Yes,80k-1Lakh,NPHH,1-2 Loans,Livestock,Eligible
+less than 50k,2-4,Fully Paid,above 3 yrs,less than 4,Gold,<50K,Yes,above 1.5Lakh,PHH,1-2 Loans,Machinery,Eligible
+<2Lakh,5-6,Partially Paid,less than 3 yrs,less than 4,Gold,60K-1Lakh,Yes,less than 70k,PHH,1-2 Loans,Crop,Eligible
+1Lakh -2Lakh,2-4,Fully Paid,less than 3 yrs,5,Gold,<50K,No,80k-1Lakh,PHH-AYY,No Loan,Crop,Eligible
+1Lakh -2Lakh,2-4,Partially Paid,above 3 yrs,5,Vehicle,>1Lakh,Yes,above 1.5Lakh,PHH-AYY,No Loan,Crop,Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,less than 4,Gold,<50K,No,above 1.5Lakh,PHH,>2 Loans,Machinery,Not Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,5,Gold,60K-1Lakh,No,80k-1Lakh,PHH-AYY,No Loan,Crop,Not Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,6,Land,>1Lakh,Yes,above 1.5Lakh,PHH-AYY,>2 Loans,Irrigation,Eligible
+less than 50k,1-2,Fully Paid,above 3 yrs,5,Land,<50K,No,80k-1Lakh,PHH,No Loan,Irrigation,Not Eligible
+1Lakh -2Lakh,2-4,Partially Paid,less than 3 yrs,7,Land,60K-1Lakh,No,less than 70k,None,>2 Loans,Livestock,Eligible
+1Lakh -2Lakh,5-6,Default,above 3 yrs,6,Vehicle,60K-1Lakh,No,less than 70k,NPHH,1-2 Loans,Crop,Not Eligible
+1Lakh -2Lakh,1-2,Fully Paid,less than 3 yrs,6,Land,>1Lakh,No,80k-1Lakh,PHH,1-2 Loans,Irrigation,Eligible
+less than 50k,5-6,Partially Paid,above 3 yrs,less than 4,Vehicle,60K-1Lakh,No,above 1.5Lakh,NPHH,No Loan,Machinery,Not Eligible
+<2Lakh,2-4,Partially Paid,above 3 yrs,7,Vehicle,<50K,No,80k-1Lakh,PHH,>2 Loans,Livestock,Not Eligible
+<2Lakh,5-6,Default,above 3 yrs,less than 4,Land,<50K,Yes,above 1.5Lakh,NPHH,1-2 Loans,Machinery,Eligible
+less than 50k,5-6,Fully Paid,above 3 yrs,6,Vehicle,>1Lakh,Yes,above 1.5Lakh,NPHH,No Loan,Irrigation,Eligible
+less than 50k,1-2,Default,above 3 yrs,7,Land,60K-1Lakh,Yes,above 1.5Lakh,PHH,>2 Loans,Crop,Eligible
+less than 50k,1-2,Default,above 3 yrs,6,Land,60K-1Lakh,Yes,less than 70k,PHH-AYY,1-2 Loans,Livestock,Eligible
+less than 50k,1-2,Partially Paid,less than 3 yrs,7,Land,60K-1Lakh,Yes,80k-1Lakh,None,No Loan,Crop,Eligible
+less than 50k,5-6,Fully Paid,above 3 yrs,less than 4,Vehicle,>1Lakh,No,80k-1Lakh,PHH,>2 Loans,Irrigation,Not Eligible
+60k-1Lakh,5-6,Partially Paid,less than 3 yrs,6,Vehicle,60K-1Lakh,No,80k-1Lakh,PHH,>2 Loans,Livestock,Eligible
+<2Lakh,1-2,Partially Paid,above 3 yrs,less than 4,Land,>1Lakh,No,80k-1Lakh,NPHH,1-2 Loans,Machinery,Not Eligible
+60k-1Lakh,5-6,Fully Paid,above 3 yrs,6,Vehicle,>1Lakh,No,80k-1Lakh,PHH-AYY,1-2 Loans,Livestock,Not Eligible
+60k-1Lakh,5-6,Fully Paid,less than 3 yrs,6,Land,>1Lakh,Yes,above 1.5Lakh,PHH,No Loan,Crop,Eligible
+less than 50k,1-2,Default,above 3 yrs,less than 4,Land,60K-1Lakh,No,above 1.5Lakh,PHH,>2 Loans,Irrigation,Not Eligible
+less than 50k,2-4,Default,less than 3 yrs,6,Gold,>1Lakh,Yes,80k-1Lakh,PHH-AYY,>2 Loans,Irrigation,Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,less than 4,Gold,<50K,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Irrigation,Not Eligible
+1Lakh -2Lakh,5-6,Partially Paid,above 3 yrs,7,Land,<50K,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Irrigation,Not Eligible
+60k-1Lakh,5-6,Default,above 3 yrs,6,Vehicle,60K-1Lakh,Yes,80k-1Lakh,None,>2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Default,less than 3 yrs,less than 4,Vehicle,>1Lakh,No,less than 70k,NPHH,1-2 Loans,Machinery,Not Eligible
+60k-1Lakh,1-2,Partially Paid,less than 3 yrs,6,Land,<50K,Yes,less than 70k,None,>2 Loans,Livestock,Eligible
+1Lakh -2Lakh,5-6,Partially Paid,less than 3 yrs,6,Vehicle,>1Lakh,No,less than 70k,None,1-2 Loans,Livestock,Eligible
+<2Lakh,1-2,Default,above 3 yrs,7,Land,60K-1Lakh,No,less than 70k,NPHH,>2 Loans,Crop,Eligible
+<2Lakh,5-6,Default,above 3 yrs,less than 4,Land,<50K,No,80k-1Lakh,PHH-AYY,>2 Loans,Livestock,Not Eligible
+<2Lakh,1-2,Default,less than 3 yrs,7,Gold,>1Lakh,No,less than 70k,PHH,1-2 Loans,Crop,Eligible
+less than 50k,2-4,Default,above 3 yrs,less than 4,Vehicle,<50K,No,above 1.5Lakh,PHH,1-2 Loans,Machinery,Not Eligible
+60k-1Lakh,1-2,Fully Paid,above 3 yrs,6,Land,>1Lakh,No,above 1.5Lakh,PHH-AYY,No Loan,Irrigation,Not Eligible
+<2Lakh,1-2,Fully Paid,above 3 yrs,5,Gold,>1Lakh,No,above 1.5Lakh,PHH,No Loan,Irrigation,Not Eligible
+1Lakh -2Lakh,2-4,Default,less than 3 yrs,7,Gold,>1Lakh,No,80k-1Lakh,PHH,>2 Loans,Livestock,Eligible
+less than 50k,1-2,Partially Paid,less than 3 yrs,7,Vehicle,60K-1Lakh,Yes,80k-1Lakh,PHH,1-2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Default,above 3 yrs,6,Land,>1Lakh,No,80k-1Lakh,PHH-AYY,No Loan,Machinery,Not Eligible
+1Lakh -2Lakh,2-4,Partially Paid,above 3 yrs,less than 4,Land,<50K,No,above 1.5Lakh,PHH,No Loan,Crop,Not Eligible
+1Lakh -2Lakh,2-4,Partially Paid,above 3 yrs,7,Vehicle,>1Lakh,No,less than 70k,None,>2 Loans,Irrigation,Not Eligible
+<2Lakh,2-4,Default,above 3 yrs,5,Land,>1Lakh,Yes,80k-1Lakh,NPHH,No Loan,Irrigation,Eligible
+1Lakh -2Lakh,1-2,Fully Paid,above 3 yrs,7,Land,>1Lakh,Yes,80k-1Lakh,PHH-AYY,>2 Loans,Crop,Eligible
+1Lakh -2Lakh,2-4,Fully Paid,less than 3 yrs,less than 4,Vehicle,<50K,No,above 1.5Lakh,PHH,1-2 Loans,Machinery,Eligible
+60k-1Lakh,2-4,Fully Paid,above 3 yrs,less than 4,Land,60K-1Lakh,Yes,above 1.5Lakh,NPHH,>2 Loans,Crop,Eligible
+60k-1Lakh,1-2,Fully Paid,less than 3 yrs,7,Land,<50K,Yes,less than 70k,None,>2 Loans,Livestock,Eligible
+60k-1Lakh,5-6,Fully Paid,above 3 yrs,5,Gold,<50K,No,less than 70k,None,1-2 Loans,Irrigation,Not Eligible
+1Lakh -2Lakh,2-4,Partially Paid,above 3 yrs,5,Vehicle,<50K,Yes,above 1.5Lakh,None,No Loan,Livestock,Eligible
+less than 50k,2-4,Fully Paid,less than 3 yrs,5,Gold,<50K,Yes,less than 70k,NPHH,1-2 Loans,Livestock,Eligible
+<2Lakh,5-6,Default,above 3 yrs,6,Vehicle,<50K,No,80k-1Lakh,PHH-AYY,No Loan,Machinery,Not Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,5,Land,<50K,Yes,above 1.5Lakh,None,No Loan,Livestock,Eligible
+60k-1Lakh,5-6,Partially Paid,above 3 yrs,6,Land,<50K,No,80k-1Lakh,NPHH,>2 Loans,Crop,Not Eligible
+less than 50k,2-4,Fully Paid,above 3 yrs,7,Vehicle,60K-1Lakh,No,80k-1Lakh,NPHH,>2 Loans,Crop,Not Eligible
+less than 50k,1-2,Partially Paid,above 3 yrs,less than 4,Land,>1Lakh,Yes,less than 70k,NPHH,No Loan,Irrigation,Eligible
+<2Lakh,2-4,Fully Paid,above 3 yrs,6,Vehicle,<50K,No,above 1.5Lakh,None,1-2 Loans,Machinery,Not Eligible
+1Lakh -2Lakh,1-2,Partially Paid,above 3 yrs,6,Vehicle,<50K,No,80k-1Lakh,PHH-AYY,No Loan,Crop,Not Eligible
+<2Lakh,1-2,Partially Paid,less than 3 yrs,7,Gold,60K-1Lakh,No,above 1.5Lakh,PHH,1-2 Loans,Machinery,Eligible
+1Lakh -2Lakh,5-6,Fully Paid,less than 3 yrs,7,Gold,>1Lakh,No,80k-1Lakh,PHH-AYY,No Loan,Livestock,Eligible
+1Lakh -2Lakh,5-6,Default,above 3 yrs,6,Gold,<50K,No,above 1.5Lakh,PHH,>2 Loans,Crop,Not Eligible
+less than 50k,5-6,Default,above 3 yrs,7,Vehicle,>1Lakh,No,80k-1Lakh,NPHH,1-2 Loans,Machinery,Not Eligible
+1Lakh -2Lakh,5-6,Partially Paid,above 3 yrs,7,Gold,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,No Loan,Irrigation,Not Eligible
+less than 50k,2-4,Partially Paid,less than 3 yrs,7,Vehicle,60K-1Lakh,No,less than 70k,PHH,No Loan,Machinery,Eligible
+<2Lakh,2-4,Partially Paid,above 3 yrs,7,Gold,60K-1Lakh,No,80k-1Lakh,PHH,>2 Loans,Machinery,Not Eligible
+less than 50k,1-2,Default,above 3 yrs,5,Gold,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,>2 Loans,Irrigation,Not Eligible
+less than 50k,5-6,Default,less than 3 yrs,less than 4,Vehicle,<50K,Yes,above 1.5Lakh,NPHH,1-2 Loans,Livestock,Eligible
+1Lakh -2Lakh,5-6,Default,above 3 yrs,6,Land,<50K,No,above 1.5Lakh,None,>2 Loans,Irrigation,Not Eligible
+60k-1Lakh,5-6,Partially Paid,above 3 yrs,7,Land,<50K,No,above 1.5Lakh,None,>2 Loans,Crop,Not Eligible
+<2Lakh,1-2,Fully Paid,above 3 yrs,7,Vehicle,>1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Livestock,Not Eligible
+60k-1Lakh,2-4,Partially Paid,above 3 yrs,6,Gold,>1Lakh,No,80k-1Lakh,PHH,No Loan,Livestock,Not Eligible
+<2Lakh,5-6,Partially Paid,above 3 yrs,6,Vehicle,<50K,No,80k-1Lakh,None,>2 Loans,Machinery,Not Eligible
+less than 50k,1-2,Default,above 3 yrs,7,Gold,>1Lakh,Yes,80k-1Lakh,NPHH,1-2 Loans,Crop,Eligible
+60k-1Lakh,1-2,Fully Paid,above 3 yrs,5,Vehicle,>1Lakh,No,less than 70k,None,No Loan,Livestock,Not Eligible
+60k-1Lakh,1-2,Partially Paid,above 3 yrs,7,Vehicle,60K-1Lakh,No,less than 70k,NPHH,1-2 Loans,Machinery,Eligible
+60k-1Lakh,2-4,Partially Paid,above 3 yrs,less than 4,Gold,60K-1Lakh,No,less than 70k,PHH-AYY,No Loan,Livestock,Eligible
+<2Lakh,5-6,Default,less than 3 yrs,less than 4,Vehicle,>1Lakh,No,less than 70k,PHH,1-2 Loans,Machinery,Eligible
+1Lakh -2Lakh,2-4,Default,less than 3 yrs,5,Gold,60K-1Lakh,Yes,80k-1Lakh,PHH-AYY,No Loan,Irrigation,Eligible
+less than 50k,2-4,Default,less than 3 yrs,5,Land,>1Lakh,No,80k-1Lakh,None,No Loan,Machinery,Eligible
+<2Lakh,1-2,Partially Paid,above 3 yrs,5,Land,<50K,No,above 1.5Lakh,None,No Loan,Irrigation,Not Eligible
+less than 50k,5-6,Fully Paid,less than 3 yrs,less than 4,Vehicle,60K-1Lakh,No,above 1.5Lakh,NPHH,>2 Loans,Crop,Eligible
+less than 50k,5-6,Default,less than 3 yrs,6,Land,60K-1Lakh,Yes,above 1.5Lakh,NPHH,1-2 Loans,Crop,Eligible
+60k-1Lakh,5-6,Default,less than 3 yrs,6,Land,>1Lakh,Yes,less than 70k,PHH-AYY,>2 Loans,Machinery,Eligible
+less than 50k,5-6,Partially Paid,above 3 yrs,5,Gold,60K-1Lakh,No,above 1.5Lakh,None,No Loan,Livestock,Not Eligible
+60k-1Lakh,2-4,Partially Paid,less than 3 yrs,7,Land,<50K,No,above 1.5Lakh,NPHH,1-2 Loans,Machinery,Eligible
+less than 50k,2-4,Default,above 3 yrs,6,Gold,>1Lakh,No,less than 70k,None,No Loan,Irrigation,Not Eligible
+<2Lakh,2-4,Default,less than 3 yrs,5,Gold,>1Lakh,Yes,less than 70k,None,No Loan,Crop,Eligible
+<2Lakh,2-4,Fully Paid,above 3 yrs,less than 4,Vehicle,60K-1Lakh,No,less than 70k,PHH-AYY,>2 Loans,Machinery,Eligible
+60k-1Lakh,5-6,Fully Paid,less than 3 yrs,6,Land,<50K,No,80k-1Lakh,PHH-AYY,1-2 Loans,Irrigation,Eligible
+60k-1Lakh,2-4,Partially Paid,above 3 yrs,5,Land,<50K,Yes,80k-1Lakh,PHH-AYY,>2 Loans,Irrigation,Eligible
+60k-1Lakh,2-4,Partially Paid,above 3 yrs,less than 4,Vehicle,>1Lakh,Yes,above 1.5Lakh,PHH,No Loan,Livestock,Eligible
+less than 50k,5-6,Fully Paid,less than 3 yrs,5,Vehicle,<50K,Yes,80k-1Lakh,NPHH,No Loan,Irrigation,Eligible
+60k-1Lakh,1-2,Default,above 3 yrs,7,Vehicle,60K-1Lakh,No,above 1.5Lakh,PHH-AYY,1-2 Loans,Livestock,Not Eligible
+<2Lakh,5-6,Fully Paid,above 3 yrs,5,Vehicle,>1Lakh,No,above 1.5Lakh,PHH,1-2 Loans,Crop,Not Eligible

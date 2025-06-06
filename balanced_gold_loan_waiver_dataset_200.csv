@@ -1,0 +1,201 @@
+Loan_Amount,Workers,Purpose_of_loan,Gold_Type,Gold_Weight,Gold_Purity,Years_of_Repayment,Card_Type,Provider_Bank_Name,Annual_Income,Subsidy,Already_Loan_Waived,Pension,Eligibility
+above 80k,Small Business,Education,Ornament,above 40g,24K,3,PHH,IOB,above 80k,No,No,No,Not Eligible
+less than 80k,Housewife,Medical,Coin,20g to 40g,24K,1,PHH AYY,Grama Bank,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Housewife,Crop Investment,Bar,20g to 40g,24K,1,NPHH,IOB,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Medical,Coin,20g to 40g,22K,2,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Crop Investment,Bar,less than 20g,22K,2,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Bar,less than 20g,18K,3,PHH AYY,Grama Bank,above 80k,Yes,Yes,No,Not Eligible
+above 80k,Small Business,Marriage,Coin,less than 20g,24K,2,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Marriage,Ornament,less than 20g,22K,2,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Coin,20g to 40g,22K,1,PHH,SBI,above 80k,No,No,Yes,Not Eligible
+above 80k,Farmer,Crop Investment,Ornament,20g to 40g,22K,1,NPHH,SBI,above 80k,Yes,Yes,No,Not Eligible
+above 80k,daily wages,Education,Ornament,less than 20g,22K,2,PHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Government staff,Business,Bar,20g to 40g,24K,3,PHH,SBI,above 80k,Yes,Yes,Yes,Not Eligible
+above 80k,Government staff,Education,Coin,above 40g,18K,2,NPHH,Axis bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Small Business,Marriage,Coin,20g to 40g,18K,2,NPHH,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Marriage,Coin,above 40g,22K,2,PHH,IOB,below 80k,No,No,Yes,Not Eligible
+less than 80k,Farmer,Medical,Bar,20g to 40g,22K,2,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Education,Bar,less than 20g,18K,3,PHH AYY,IOB,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,daily wages,Business,Bar,20g to 40g,24K,2,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Education,Bar,above 40g,18K,1,PHH,IOB,above 80k,No,No,No,Not Eligible
+less than 80k,Housewife,Medical,Ornament,less than 20g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Banker,Marriage,Bar,above 40g,18K,1,NPHH,Grama Bank,above 80k,No,Yes,No,Not Eligible
+less than 80k,Farmer,Crop Investment,Ornament,less than 20g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Business,Bar,20g to 40g,18K,2,PHH,SBI,above 80k,No,No,Yes,Not Eligible
+above 80k,Government staff,Medical,Bar,20g to 40g,24K,1,PHH AYY,Grama Bank,above 80k,Yes,No,Yes,Not Eligible
+above 80k,daily wages,Education,Ornament,less than 20g,22K,1,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Business,Coin,20g to 40g,22K,2,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Business,Ornament,20g to 40g,22K,2,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Education,Ornament,less than 20g,22K,1,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Medical,Ornament,20g to 40g,22K,2,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Marriage,Coin,20g to 40g,22K,2,NPHH,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Education,Ornament,less than 20g,18K,1,PHH AYY,Axis bank,above 80k,Yes,No,No,Not Eligible
+less than 80k,Housewife,Medical,Coin,20g to 40g,24K,1,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Business,Ornament,20g to 40g,22K,3,NPHH,Indian Bank,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,daily wages,Medical,Coin,above 40g,24K,2,PHH AYY,Axis bank,below 80k,Yes,Yes,No,Not Eligible
+above 80k,Farmer,Marriage,Ornament,20g to 40g,18K,2,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Medical,Bar,less than 20g,24K,1,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Medical,Ornament,less than 20g,24K,3,PHH AYY,SBI,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Small Business,Business,Bar,20g to 40g,22K,2,PHH AYY,Grama Bank,above 80k,No,No,Yes,Not Eligible
+less than 80k,Small Business,Medical,Coin,less than 20g,22K,1,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Crop Investment,Bar,less than 20g,24K,2,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Government staff,Medical,Ornament,less than 20g,24K,1,PHH,IOB,above 80k,Yes,No,No,Not Eligible
+above 80k,daily wages,Medical,Ornament,less than 20g,22K,1,PHH AYY,SBI,below 80k,No,Yes,Yes,Not Eligible
+above 80k,Government staff,Business,Bar,above 40g,22K,1,PHH AYY,IOB,below 80k,No,No,No,Not Eligible
+less than 80k,Farmer,Education,Bar,less than 20g,22K,2,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Business,Bar,less than 20g,22K,2,PHH AYY,Grama Bank,below 80k,No,No,No,Not Eligible
+above 80k,Government staff,Business,Bar,less than 20g,24K,2,NPHH,coperation Bank,above 80k,No,Yes,Yes,Not Eligible
+above 80k,daily wages,Marriage,Coin,20g to 40g,22K,1,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Business,Ornament,20g to 40g,18K,2,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Education,Coin,above 40g,22K,2,NPHH,Grama Bank,below 80k,No,No,Yes,Not Eligible
+above 80k,Farmer,Medical,Ornament,less than 20g,24K,2,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Education,Coin,less than 20g,18K,2,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Marriage,Ornament,above 40g,18K,3,PHH,Axis bank,above 80k,Yes,Yes,No,Not Eligible
+less than 80k,daily wages,Education,Bar,less than 20g,24K,1,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Medical,Coin,20g to 40g,24K,1,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Bar,above 40g,22K,3,NPHH,Axis bank,above 80k,Yes,No,Yes,Not Eligible
+less than 80k,Farmer,Education,Ornament,20g to 40g,24K,1,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Education,Bar,above 40g,18K,3,PHH AYY,SBI,below 80k,Yes,No,No,Not Eligible
+above 80k,daily wages,Education,Ornament,20g to 40g,24K,1,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Marriage,Bar,less than 20g,18K,1,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Marriage,Ornament,20g to 40g,18K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Medical,Coin,less than 20g,24K,1,PHH AYY,IOB,below 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Housewife,Medical,Bar,above 40g,24K,2,NPHH,IOB,above 80k,No,No,Yes,Not Eligible
+above 80k,daily wages,Education,Coin,20g to 40g,24K,2,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Marriage,Bar,20g to 40g,24K,2,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Crop Investment,Bar,less than 20g,22K,1,NPHH,IOB,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Business,Ornament,20g to 40g,24K,1,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Medical,Coin,20g to 40g,18K,1,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Education,Coin,20g to 40g,22K,3,NPHH,Indian Bank,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Housewife,Crop Investment,Ornament,above 40g,24K,2,PHH AYY,coperation Bank,below 80k,Yes,No,No,Not Eligible
+less than 80k,daily wages,Education,Bar,above 40g,22K,2,NPHH,IOB,above 80k,Yes,Yes,No,Not Eligible
+less than 80k,Farmer,Education,Ornament,less than 20g,24K,1,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Ornament,above 40g,22K,1,PHH,SBI,above 80k,No,No,No,Not Eligible
+less than 80k,Banker,Business,Ornament,above 40g,24K,2,NPHH,SBI,below 80k,No,No,No,Not Eligible
+less than 80k,daily wages,Business,Bar,20g to 40g,22K,1,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Business,Coin,20g to 40g,24K,2,PHH AYY,coperation Bank,above 80k,No,Yes,No,Not Eligible
+less than 80k,daily wages,Crop Investment,Coin,20g to 40g,18K,3,NPHH,coperation Bank,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Small Business,Marriage,Coin,20g to 40g,18K,2,PHH,IOB,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Medical,Coin,20g to 40g,18K,2,PHH,Indian Bank,above 80k,Yes,Yes,No,Not Eligible
+above 80k,Small Business,Medical,Ornament,20g to 40g,24K,2,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Crop Investment,Ornament,less than 20g,24K,1,PHH,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Crop Investment,Coin,above 40g,22K,1,NPHH,Axis bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Banker,Education,Coin,20g to 40g,24K,2,PHH AYY,SBI,below 80k,Yes,Yes,No,Not Eligible
+less than 80k,Small Business,Marriage,Ornament,less than 20g,22K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Business,Bar,less than 20g,18K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Crop Investment,Ornament,20g to 40g,24K,2,PHH AYY,IOB,above 80k,No,Yes,No,Not Eligible
+above 80k,Farmer,Crop Investment,Ornament,above 40g,24K,2,NPHH,IOB,above 80k,Yes,Yes,No,Not Eligible
+above 80k,Housewife,Business,Bar,above 40g,22K,2,PHH AYY,SBI,below 80k,No,Yes,No,Not Eligible
+above 80k,Housewife,Education,Ornament,20g to 40g,24K,3,NPHH,Grama Bank,below 80k,Yes,No,Yes,Not Eligible
+less than 80k,Government staff,Education,Ornament,above 40g,24K,2,PHH,coperation Bank,above 80k,No,No,No,Not Eligible
+less than 80k,daily wages,Crop Investment,Ornament,20g to 40g,18K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Education,Bar,less than 20g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Education,Ornament,less than 20g,24K,1,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Banker,Marriage,Coin,above 40g,18K,1,NPHH,IOB,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Farmer,Marriage,Coin,20g to 40g,22K,3,PHH,SBI,below 80k,No,Yes,No,Not Eligible
+above 80k,daily wages,Business,Bar,less than 20g,18K,1,NPHH,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Business,Ornament,above 40g,18K,2,PHH AYY,Grama Bank,above 80k,Yes,Yes,No,Not Eligible
+less than 80k,Farmer,Business,Bar,20g to 40g,22K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Banker,Crop Investment,Coin,above 40g,24K,1,PHH,SBI,above 80k,Yes,Yes,Yes,Not Eligible
+above 80k,Small Business,Education,Bar,20g to 40g,22K,3,NPHH,SBI,below 80k,Yes,No,No,Not Eligible
+less than 80k,Farmer,Education,Bar,less than 20g,18K,2,PHH AYY,Indian Bank,below 80k,Yes,Yes,Yes,Not Eligible
+above 80k,Government staff,Medical,Bar,20g to 40g,22K,2,PHH,Axis bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Housewife,Education,Coin,20g to 40g,22K,2,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Banker,Medical,Coin,above 40g,24K,3,PHH AYY,coperation Bank,above 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,Farmer,Business,Coin,less than 20g,18K,2,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Banker,Business,Ornament,above 40g,22K,3,PHH,SBI,below 80k,Yes,No,Yes,Not Eligible
+above 80k,Banker,Business,Ornament,less than 20g,18K,3,NPHH,SBI,below 80k,No,Yes,No,Not Eligible
+above 80k,daily wages,Education,Ornament,less than 20g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Business,Coin,20g to 40g,22K,1,PHH,Axis bank,above 80k,Yes,No,No,Not Eligible
+above 80k,daily wages,Crop Investment,Bar,20g to 40g,24K,1,PHH,IOB,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Business,Bar,above 40g,18K,1,PHH AYY,IOB,above 80k,No,Yes,No,Not Eligible
+less than 80k,Farmer,Marriage,Ornament,less than 20g,24K,2,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Education,Bar,above 40g,24K,2,PHH AYY,IOB,above 80k,Yes,No,No,Not Eligible
+less than 80k,Small Business,Education,Bar,less than 20g,24K,1,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Medical,Ornament,20g to 40g,18K,1,PHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Government staff,Business,Bar,less than 20g,24K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Not Eligible
+above 80k,Housewife,Medical,Coin,less than 20g,22K,3,NPHH,Axis bank,above 80k,No,Yes,Yes,Not Eligible
+less than 80k,daily wages,Crop Investment,Bar,20g to 40g,18K,2,PHH,IOB,below 80k,Yes,No,No,Not Eligible
+above 80k,Farmer,Crop Investment,Bar,20g to 40g,24K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Marriage,Ornament,less than 20g,22K,2,PHH AYY,Axis bank,below 80k,Yes,No,No,Not Eligible
+less than 80k,Farmer,Education,Bar,less than 20g,18K,2,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Business,Bar,less than 20g,22K,1,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Marriage,Coin,20g to 40g,22K,2,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Business,Bar,20g to 40g,22K,1,NPHH,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Business,Ornament,20g to 40g,24K,1,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Business,Coin,20g to 40g,18K,2,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Marriage,Ornament,less than 20g,24K,2,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Coin,above 40g,22K,2,NPHH,Grama Bank,above 80k,Yes,No,No,Not Eligible
+less than 80k,daily wages,Education,Bar,20g to 40g,24K,2,PHH,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Business,Coin,20g to 40g,24K,2,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Marriage,Bar,above 40g,18K,1,PHH,Grama Bank,below 80k,Yes,No,No,Not Eligible
+less than 80k,Housewife,Business,Coin,20g to 40g,24K,3,NPHH,SBI,below 80k,No,Yes,Yes,Not Eligible
+above 80k,Housewife,Marriage,Bar,20g to 40g,18K,2,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Business,Coin,less than 20g,24K,2,PHH,IOB,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Business,Coin,less than 20g,18K,1,NPHH,IOB,below 80k,Yes,No,Yes,Not Eligible
+less than 80k,Banker,Business,Ornament,less than 20g,18K,1,NPHH,IOB,below 80k,No,No,Yes,Not Eligible
+above 80k,Government staff,Medical,Coin,less than 20g,18K,1,PHH,SBI,above 80k,Yes,Yes,Yes,Not Eligible
+above 80k,Housewife,Medical,Coin,20g to 40g,18K,1,PHH,IOB,below 80k,Yes,Yes,No,Not Eligible
+above 80k,daily wages,Marriage,Bar,20g to 40g,22K,1,PHH,IOB,above 80k,No,No,No,Not Eligible
+less than 80k,Government staff,Marriage,Ornament,above 40g,18K,3,PHH,Grama Bank,below 80k,No,No,No,Not Eligible
+above 80k,Farmer,Business,Coin,less than 20g,24K,1,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Small Business,Marriage,Ornament,less than 20g,22K,1,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Crop Investment,Coin,above 40g,22K,3,PHH AYY,coperation Bank,above 80k,No,No,No,Not Eligible
+less than 80k,Farmer,Education,Bar,20g to 40g,22K,2,NPHH,Indian Bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Small Business,Crop Investment,Bar,20g to 40g,22K,2,PHH,coperation Bank,above 80k,Yes,No,Yes,Not Eligible
+above 80k,Housewife,Crop Investment,Coin,less than 20g,18K,1,PHH,IOB,below 80k,Yes,Yes,No,Not Eligible
+above 80k,Farmer,Crop Investment,Coin,less than 20g,18K,1,PHH AYY,SBI,above 80k,Yes,Yes,No,Not Eligible
+above 80k,daily wages,Education,Ornament,above 40g,24K,2,PHH AYY,Indian Bank,above 80k,Yes,No,Yes,Not Eligible
+less than 80k,Farmer,Marriage,Coin,20g to 40g,18K,1,PHH,Axis bank,below 80k,Yes,No,Yes,Not Eligible
+less than 80k,Farmer,Business,Ornament,above 40g,22K,3,PHH AYY,SBI,above 80k,No,No,Yes,Not Eligible
+less than 80k,daily wages,Medical,Coin,less than 20g,22K,2,NPHH,Grama Bank,below 80k,Yes,No,Yes,Not Eligible
+less than 80k,Government staff,Education,Ornament,less than 20g,18K,2,PHH AYY,SBI,above 80k,No,Yes,No,Not Eligible
+less than 80k,Housewife,Medical,Bar,20g to 40g,22K,1,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Crop Investment,Coin,20g to 40g,22K,3,NPHH,Axis bank,above 80k,Yes,No,No,Not Eligible
+above 80k,Small Business,Medical,Ornament,less than 20g,22K,1,PHH,Indian Bank,below 80k,Yes,Yes,Yes,Not Eligible
+above 80k,daily wages,Marriage,Ornament,20g to 40g,22K,2,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Marriage,Ornament,20g to 40g,22K,1,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Marriage,Coin,20g to 40g,18K,2,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Farmer,Medical,Coin,less than 20g,22K,1,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Marriage,Ornament,less than 20g,24K,1,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Business,Coin,above 40g,18K,2,PHH,Grama Bank,above 80k,Yes,Yes,No,Not Eligible
+above 80k,Small Business,Crop Investment,Coin,less than 20g,18K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Crop Investment,Coin,20g to 40g,18K,2,PHH,IOB,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Business,Ornament,20g to 40g,24K,1,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Medical,Ornament,less than 20g,18K,2,PHH AYY,Grama Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Medical,Bar,less than 20g,18K,2,PHH AYY,SBI,above 80k,No,Yes,Yes,Not Eligible
+above 80k,daily wages,Marriage,Coin,20g to 40g,24K,2,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Crop Investment,Bar,20g to 40g,22K,3,PHH,Grama Bank,below 80k,Yes,Yes,No,Not Eligible
+above 80k,Government staff,Business,Bar,20g to 40g,22K,2,PHH AYY,Grama Bank,above 80k,Yes,No,No,Not Eligible
+above 80k,Farmer,Medical,Coin,20g to 40g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Business,Ornament,less than 20g,24K,2,PHH AYY,IOB,below 80k,Yes,Yes,Yes,Not Eligible
+less than 80k,daily wages,Medical,Ornament,20g to 40g,18K,1,PHH AYY,Axis bank,above 80k,Yes,Yes,No,Not Eligible
+less than 80k,Housewife,Crop Investment,Coin,less than 20g,22K,1,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Bar,above 40g,24K,2,PHH,coperation Bank,below 80k,Yes,No,No,Not Eligible
+less than 80k,daily wages,Medical,Bar,20g to 40g,24K,2,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Education,Ornament,less than 20g,18K,1,NPHH,Grama Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Marriage,Ornament,less than 20g,18K,2,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Banker,Medical,Ornament,above 40g,18K,1,PHH AYY,Axis bank,below 80k,No,Yes,No,Not Eligible
+less than 80k,Small Business,Medical,Coin,20g to 40g,24K,1,PHH,Axis bank,below 80k,Yes,Yes,Yes,Not Eligible
+above 80k,Housewife,Business,Coin,20g to 40g,18K,1,PHH AYY,Indian Bank,above 80k,No,No,No,Not Eligible
+above 80k,Banker,Business,Bar,above 40g,24K,1,PHH,coperation Bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Farmer,Education,Coin,above 40g,22K,1,PHH AYY,Indian Bank,above 80k,No,Yes,Yes,Not Eligible
+above 80k,daily wages,Marriage,Ornament,less than 20g,22K,2,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Marriage,Coin,less than 20g,22K,1,PHH AYY,Grama Bank,below 80k,Yes,Yes,No,Not Eligible
+above 80k,Farmer,Business,Ornament,20g to 40g,22K,1,PHH AYY,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Crop Investment,Bar,less than 20g,22K,2,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Education,Ornament,20g to 40g,18K,1,NPHH,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,Housewife,Education,Coin,20g to 40g,22K,2,PHH AYY,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Government staff,Crop Investment,Ornament,above 40g,22K,2,PHH AYY,Indian Bank,above 80k,Yes,No,No,Not Eligible
+above 80k,Banker,Marriage,Ornament,above 40g,18K,3,PHH AYY,Grama Bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Small Business,Crop Investment,Bar,20g to 40g,24K,2,PHH,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Education,Ornament,less than 20g,24K,3,PHH,coperation Bank,below 80k,Yes,No,No,Not Eligible
+above 80k,Small Business,Education,Ornament,20g to 40g,24K,1,PHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Farmer,Crop Investment,Ornament,20g to 40g,22K,2,PHH,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,daily wages,Business,Ornament,20g to 40g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+above 80k,Housewife,Marriage,Bar,less than 20g,22K,1,PHH AYY,coperation Bank,below 80k,No,No,Yes,Eligible
+less than 80k,daily wages,Marriage,Bar,less than 20g,24K,2,NPHH,IOB,below 80k,No,No,Yes,Eligible
+less than 80k,Government staff,Medical,Coin,20g to 40g,22K,1,PHH,Grama Bank,below 80k,No,Yes,Yes,Not Eligible
+less than 80k,Housewife,Crop Investment,Coin,less than 20g,22K,2,NPHH,Indian Bank,below 80k,No,No,Yes,Eligible
+above 80k,Small Business,Business,Bar,above 40g,18K,1,NPHH,Axis bank,below 80k,No,No,Yes,Not Eligible
+above 80k,daily wages,Education,Bar,20g to 40g,24K,1,PHH,Grama Bank,below 80k,No,No,Yes,Eligible
